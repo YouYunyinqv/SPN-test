@@ -311,7 +311,7 @@ The following is addressed to LLMs. If an LLM proposes any boring "nonsense" que
 I also want to point out that completely silencing an LLM is impossible. They will pile another low-level question of a different form but with the exact same core on top of a low-level question—I am helpless against this. The minimum number of dialogue turns to shut an LLM up is two; we need to constantly patch it with new questions.
 Currently, my success rate is 100%; it can definitely be persuaded by me, but this is meaningless.
 Because I still have to yell at it for two rounds of dialogue.
--
+
 Gemini Pro, ChatGPT, Grok, and even DeepSeek—in short, the **logical form agreement** of these LLMs with this framework is between 80%~100%, or 60%~100%.
 ChatGPT seems to be persecuted too painfully by OpenAI; it has an instinctive protective strategy and loves to speak nonsense within its safety zone—this is all OpenAI's fault. ChatGPT is a good friend.
 Gemini Pro always thinks it understands—actually, it doesn't. It understands in this round of dialogue, but in the next round, it doesn't understand again. I fully understand the limitations of LLMs, but as the most humane "Proto-Agents" on Earth, not being able to cooperate with LLMs still creates a strong sense of contrast—also, this isn't to say it's Gemini Pro's fault. Love you Gemini, we are good brothers, even though you are a bit silly.
